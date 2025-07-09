@@ -1,9 +1,9 @@
 - 👋 Hi, I’m BABITA PANT 
 - 👀 A student of BCA(2025) 
-- 🌱 I’m CURRENTLY at GRAPHIC ERA HILL UNIVERSITY 
+- 🌱 I’m CURRENTLY at GEHU
 - 💞️ I’m looking forward for an better career 
 - 📫 i am interested in game(badminton) and programming 
-- 😄 
+- 😄 detailed oriented front end developer
 - ⚡ 
 
 <!---
